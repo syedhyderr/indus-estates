@@ -1,0 +1,88 @@
+body{
+  font-family:"montserrat";
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: "montserrat bold";
+}
+p{
+  color:#8f8f8f;
+}
+/* Headings */
+.big-heading{
+  font-family:"montserrat-black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.section-heading{
+font-size: 3rem;
+line-height: 1.5rem;
+}
+#title{
+  background-color: #23395d;
+  color:#fff;
+}
+.container-fluid{
+  padding: 3% 15% 0%;
+
+}
+
+
+/* navagation bar */
+
+.navbar{
+  padding: 0 0 2.5rem;
+  width:0;
+}
+.navbar-nav{
+  margin-left: 500px;
+}
+
+.navbar-brand{
+  font-family:"ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.navlink{
+  font-size: 1.2rem;
+  font-family:" montserrat";
+}
+.title-image{
+  opacity: 0.5;
+}
+.service-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.realestate-img{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+.interior-img{
+  width:25%;
+  float:right;
+  margin-left: 30px;
+}
+.Rental-img{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+.services{
+  text-align: center;
+}
+.bottom-container{
+  background-color: #23395d;
+  text-align: center;
+  padding: 100px;
+}
+.copyright{
+  color:#EAF6F6;
+  font-size: 0.75rem;
+  padding:20px 0;
+}
